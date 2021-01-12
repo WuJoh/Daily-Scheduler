@@ -11,4 +11,9 @@ A website that is a daily planner which helps an employee with a busy schedule.
 * MOMENT.JS
 
 ## Website
+https://wujoh.github.io/Daily-Scheduler/
 
+# Repository link
+https://github.com/WuJoh/Daily-Scheduler/
+
+# Screenshot
