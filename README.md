@@ -15,5 +15,3 @@ https://wujoh.github.io/Daily-Scheduler/
 
 # Repository link
 https://github.com/WuJoh/Daily-Scheduler/
-
-# Screenshot
